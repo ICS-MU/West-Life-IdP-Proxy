@@ -1,0 +1,8 @@
+{
+  "name": "ontkoc/simplesamlphp-module-westlifeproxytheme",
+  "description": "A SimpleSAMLPHP module for West-Life theme",
+  "type": "simplesamlphp-module",
+  "require": {
+    "simplesamlphp/composer-module-installer": "~1.1"
+  }
+}
