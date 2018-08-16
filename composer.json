@@ -1,0 +1,28 @@
+{
+  "name": "ics-mu/simplesamlphp-module-westlife",
+  "description": "A SimpleSAMLphp module providing template for DiscoPower and user-facing parts of the SSP for West-Life AAI",
+  "version" : "0.1.0",
+  "type": "simplesamlphp-module",
+  "keywords": ["simplesamlphp", "template", "westlife"],
+  "license": "BSD-2-Clause",
+  "authors": [
+    {
+      "name": "Daniel Kouril",
+      "email": "kouril@ics.muni.cz",
+      "role": "Developer"
+    },
+    {
+      "name": "Lubomir Ontkoc",
+      "email": "xontkoc@fi.muni.cz",
+      "role": "Developer"
+    },
+    {
+      "name": "Pavel Vyskocil",
+      "email": "vyskocilpavel@muni.cz",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "simplesamlphp/composer-module-installer": "~1.0"
+  }
+}
